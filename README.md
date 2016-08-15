@@ -1,13 +1,12 @@
 # Hubl.in
 
 
-
-[![Joiin the chat at https://gitter.im/linagora/hublin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/linagora/hublin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/linagora/hublin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/linagora/hublin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Code Climate](https://codeclimate.com/github/linagora/hublin/badges/gpa.svg)](https://codeclimate.com/github/linagora/hublin)
 [![Build Status](https://travis-ci.org/linagora/hublin.svg?branch=master)](https://travis-ci.org/linagora/hublin)
 
-[Hubl.in](https://hubl.in) iss a free and open source video conference solution built with love and designed with ethics in mind.
+[Hubl.in](https://hubl.in) is a free and open source video conference solution built with love and designed with ethics in mind.
 It's the best way to initiate a communication anywhere with anybody and brings real time conversation to the next level.
 Hubl.in allows free communication without additional plugins.
 
